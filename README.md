@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuwarkapur
 - 👀 I’m interested in python,c/c++, data analysis.
-- 🌱 you and me both have a lot in common if you are interested in AI
+- 🌱 you and me both have a lot in common if you are interested in AI,ML.
 - 💞️ I’m open for collabrations
 - 📫 How to reach me, ping me on this email address- kuwarkapur@gmail.com 
 
