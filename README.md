@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kuwarkapur                                                            
-- 👀 I’m interested in python,c/c++, data analysis.
-- 🌱 you and me both have a lot in common if you are interested in AI,ML.                                                 
-- 💞️ I’m open for collabrations
+- 👀 I’m interested in python,c/c++, and OpenCV.
+- 🌱 you and me both have a lot in common if you are interested in Robotics and Machine learning                                                 
+- 👯 I’m looking to collaborate on robotics/automation
 - 📫 How to reach me, ping me on this email address- kuwarkapur@gmail.com  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuwarkapur&theme=radical)
